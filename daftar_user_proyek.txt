@@ -1,0 +1,24 @@
+- Admin
+admin@gmail.com
+12345678
+
+- Guru
+ahmadrusdi@gmail.com
+12345678
+
+baguspermana@gmail.com
+12345678
+
+sitinur@gmail.com
+12345678
+
+sriani@gmail.com
+12345678
+
+
+- Siswa
+ahmadwahyukls1@gmail.com
+12345678
+
+adamadis@gmail.com	
+12345678
